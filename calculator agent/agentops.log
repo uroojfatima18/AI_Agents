@@ -1,0 +1,6 @@
+2025-07-12 13:22:10,080 - INFO - AgentOps: Successfully instrumented 'OpenaiInstrumentor' for package 'agentops.instrumentation.providers.openai'.
+2025-07-12 13:22:10,090 - INFO - AgentOps: 'agents' is the first-targeted agentic library. Will uninstrument providers if any are/become active.
+2025-07-12 13:22:10,091 - INFO - AgentOps: Uninstrumented provider: OpenaiInstrumentor (for package 'openai') due to agentic library activation.
+2025-07-12 13:22:10,555 - INFO - AgentOps: Successfully instrumented 'OpenaiInstrumentor' for package 'agentops.instrumentation.providers.openai'.
+2025-07-12 13:22:10,627 - INFO - AgentOps: Successfully instrumented 'OpenAIAgentsInstrumentor' for package 'agentops.instrumentation.agentic.openai_agents'.
+2025-07-12 13:22:10,628 - INFO - Session Replay for default trace: https://app.agentops.ai/sessions?trace_id=1851735311032c00fe74880a9fb432c8

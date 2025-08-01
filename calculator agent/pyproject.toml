@@ -1,0 +1,11 @@
+[project]
+name = "practice"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "agentops>=0.4.17",
+    "chainlit>=2.5.5",
+    "openai-agents>=0.0.19",
+]
